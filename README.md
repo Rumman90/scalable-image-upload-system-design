@@ -478,3 +478,9 @@ By separating upload handling, metadata storage, background processing, and cont
 - production-friendly
 
 It is a strong foundation for any platform that needs to handle large-scale image upload and delivery.
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
